@@ -69,7 +69,14 @@ body {
     .contact a{
         font-size: 25px;
     }
-
+    
+    .special-heading{
+        font-size: 70px;
+    }
+    
+    .special-heading-p{
+        margin-bottom: 25px;
+    }
 }
 
 @media (min-width: 768px) {
